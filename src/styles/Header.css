@@ -1,0 +1,44 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2C2C2C;
+    padding: 2px 0;
+}
+.logo-txc-menu {
+    height: 70px;
+    width: 60px;
+}
+.menu {
+    padding: 3px 0;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #2C2C2C;
+    align-items: center;
+}
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.menu li {
+    margin-right: 20px;
+    position: relative;
+}
+.menu a {
+    color: #F3EFEF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+    display: block;
+}
+.menu a:hover {
+    background-color: #f7b5c5;
+    color:#2C2C2C;
+}

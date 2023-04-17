@@ -1,0 +1,20 @@
+.tabla-torneo, .tabla-estadisticas {
+    border-collapse: collapse;
+    width: auto;
+    margin: 10px 100px 50px 100px;
+    background-color: #F3EFEF;
+    table-layout: auto;
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+    border: 2px solid black;
+}
+.fixture h2{
+    font-size: 22px;
+    margin-left: 50px;
+}
+.fixture h3, .estadisticas h3{
+    font-size: 18px;
+    margin-left: 70px;
+}

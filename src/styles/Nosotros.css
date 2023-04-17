@@ -1,0 +1,40 @@
+.redes-sociales-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 220px;
+}
+.redes-sociales {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.redes-sociales li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.redes-sociales-icono img {
+    width: 200px;
+}  
+.redes-sociales-texto {
+    font-size: 14px;
+    color:#2C2C2C;
+    text-decoration: none;
+}
+.redes-sociales a {
+    text-decoration: none;
+    color: black;
+  }
+.campeones-text h2{
+    font-size: 17px;
+    margin-left: 50px;
+}
+.campeones-img{
+    margin-left: 50px;
+}
+.nosotros{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,20 @@
+.plantel ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.plantel li {
+    flex-basis: 20%; /* El ancho de cada elemento será un tercio del ancho de la pantalla, menos un espacio de 20px entre ellos */
+    margin-bottom: 15px; /* Espacio entre los elementos */
+    text-align: center; /* Centrar el contenido */
+}
+
+.plantel img {
+    max-width: 80%; /* Asegurarse de que la imagen no sea más ancha que su contenedor */
+    height: auto; /* Ajustar la altura proporcionalmente */
+    margin-bottom: 10px; /* Espacio entre la imagen y el nombre */
+}

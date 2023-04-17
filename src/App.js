@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./styles/App.css";
+import "typeface-montserrat";
+import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
+import { Inicio } from "./components/Inicio";
+import { Plantel } from "./components/Plantel";
+import { Torneos } from "./components/Torneos";
+import { Nosotros } from "./components/Nosotros";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div className="TxC">
+        <Header />
+        <Routes>
+          <Route exact path="/" element={<Inicio />} />
+          <Route path="/plantel" element={<Plantel />} />
+          <Route path="/torneos" element={<Torneos />} />
+          <Route path="/nosotros" element={<Nosotros />} />
+        </Routes>
+        <Footer />
+      </div>
+    </BrowserRouter>
   );
 }
 
