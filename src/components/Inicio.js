@@ -13,7 +13,7 @@ export const Inicio = () => {
   const [minutos, setMinutos] = useState(0);
   const [segundos, setSegundos] = useState(0);
 
-  const intervalId = setInterval(() => {
+  setInterval(() => {
     const fechaHoy = new Date();
     const proxFecha = new Date(fecha[fechaActual - 1]);
     const falta = proxFecha - fechaHoy;
