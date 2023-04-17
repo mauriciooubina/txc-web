@@ -1,21 +1,21 @@
 import React, { useState } from "react";
 import "../styles/Inicio.css";
 import fotoEquipo from "../img/equipo-completo-lejos.jpeg";
+import fechas from '../data/fechas.json';
 
-const rivales = ["Pelusa FC", "Salmon FC", "Baiano Sports", "La Gran Coco", "AS Roma", "La Naranja de Juli", "Fecha libre", ];
-const nroFecha = [1, 2, 3, 4, 5, 6, 7];
-const fecha = ["2023-04-01T09:50:00", "2023-04-08T09:00:00", "2023-04-15T012:20:00", "2023-04-22T13:30:00", "2023-04-29T09:00:00", "2023-05-06T09:00:00", "2023-05-13T09:00:00", ];
-const fechaActual = 4;
+var nroFecha = 4;
 
 export const Inicio = () => {
   const [dias, setDias] = useState(0);
   const [horas, setHoras] = useState(0);
   const [minutos, setMinutos] = useState(0);
   const [segundos, setSegundos] = useState(0);
+  const fechaActual = fechas.find( f => f.fecha === nroFecha);
 
   setInterval(() => {
     const fechaHoy = new Date();
-    const proxFecha = new Date(fecha[fechaActual - 1]);
+    const proxFecha = new Date(fechaActual.dia);
+    if(fechaHoy > proxFecha) nroFecha += 1;
     const falta = proxFecha - fechaHoy;
     const dias = Math.floor(falta / (1000 * 60 * 60 * 24));
     const horas = Math.floor((falta % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
@@ -38,7 +38,7 @@ export const Inicio = () => {
         </div>
         <div className="countdown-contenedor" id="countdown">
           <p id="fecha">
-            <b>Toma x Curioso</b> vs <b>{rivales[fechaActual - 1]}</b> por la <b>Fecha {nroFecha[fechaActual - 1]}</b>
+            <b>Toma x Curioso</b> vs <b>{fechaActual.rival}</b> por la <b>Fecha {fechaActual.fecha}</b>
           </p>
         </div>
       </div>
