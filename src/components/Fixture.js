@@ -4,7 +4,6 @@ import fixture from '../data/fixture.json'
 export const Fixture = () => {
   return (
     <div className='fixture'>
-      <h2>Torneo la Redonda, Grun FC</h2>
       <h3>Fixture</h3>
       <table className="tabla-torneo">
         <thead>

@@ -1,4 +1,4 @@
-.tabla-torneo, .tabla-estadisticas {
+.tabla-torneo, .tabla-estadisticas, .tabla-posiciones{
     border-collapse: collapse;
     width: auto;
     margin: 10px 100px 50px 100px;
@@ -14,7 +14,49 @@ th, td {
     font-size: 22px;
     margin-left: 50px;
 }
-.fixture h3, .estadisticas h3{
+.fixture h3, .estadisticas h3, .posiciones h3{
     font-size: 18px;
     margin-left: 70px;
 }
+
+tr.Toma.por.Curioso{
+    background-color: pink;
+}
+.menu-container {
+    display: flex;
+    flex-direction: row;
+  }
+.menu-torneos {
+    display: inline-block;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #F3EFEF;
+    padding: 10px;
+    flex: 1;
+    border: 1px solid #ccc;
+    flex-direction: column;
+    max-width: 146px;
+    height: 200px;
+  }
+.nav-torneos{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.nav-torneos button{
+    width: fit-content;
+    padding: 5px;
+    margin-left: 15px;
+    border: none;
+    font-size: 17px;
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-align: left;
+}
+.menu-torneos button:hover {
+    background-color: #e6e6e6;
+}
+.contenido {
+    margin-left: 120px;
+  }
