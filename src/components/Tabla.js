@@ -16,7 +16,7 @@ export const Tabla = () => {
             <th><b>Partidos Perdidos</b></th>
             <th><b>Goles A Favor</b></th>
             <th><b>Goles En Contra</b></th>
-            <th><b>Diferencia Gol</b></th>
+            <th><b>Diferencia de Gol</b></th>
           </tr>
         </thead>
         <tbody>

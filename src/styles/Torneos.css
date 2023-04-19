@@ -35,8 +35,9 @@ tr.Toma.por.Curioso{
     flex: 1;
     border: 1px solid #ccc;
     flex-direction: column;
-    max-width: 146px;
+    max-width: 116px;
     height: 200px;
+    margin-left: 10px;
   }
 .nav-torneos{
     display: flex;

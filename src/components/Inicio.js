@@ -11,6 +11,10 @@ export const Inicio = () => {
   const [minutos, setMinutos] = useState(0);
   const [segundos, setSegundos] = useState(0);
   const fechaActual = fechas.find( f => f.fecha === nroFecha);
+  const prox = new Date(fechaActual.dia);
+  const proxDia = prox.getDate();
+  const proxMes = prox.toLocaleString("es-ES", { month: "long" });
+  const proxHora = (prox.getHours() + ":" + prox.getMinutes());
 
   setInterval(() => {
     const fechaHoy = new Date();
@@ -40,6 +44,7 @@ export const Inicio = () => {
           <p id="fecha">
             <b>Toma x Curioso</b> vs <b>{fechaActual.rival}</b> por la <b>Fecha {fechaActual.fecha}</b>
           </p>
+          <p>Sábado {proxDia} de {proxMes} a las {proxHora} en Grün FC</p>
         </div>
       </div>
       <div className="foto-equipo">

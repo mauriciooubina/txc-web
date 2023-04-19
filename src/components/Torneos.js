@@ -15,11 +15,10 @@ export const Torneos = () => {
     setEstadisticas(option === "estadisticas");
   }
   
-
   return (
     <div className='contenedor'>
       <h1>Torneos</h1>
-      <h2>Torneo la Redonda, Grun FC</h2>
+      
 
       <div className='menu-container'>
         <div className='menu-torneos'>
@@ -30,6 +29,7 @@ export const Torneos = () => {
           </nav>
         </div>
         <div className='contenido'>
+        <h2>Torneo la Redonda, Grün FC</h2>
           {fixture && <Fixture/>}
           {tabla && <Tabla/>}
           {estadisticas && <Estadisticas/>}

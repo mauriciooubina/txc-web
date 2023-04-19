@@ -17,7 +17,7 @@ export const Nosotros = () => {
           </div>
           <div className='campeones-img'>
             <img src={FotoCampeones} alt="foto-campeones" style={{width: '280px'}}/>
-            <img src={FotoCampeones2} alt="foto-campeones-2" style={{width: '315px'}}/>
+            <img src={FotoCampeones2} alt="foto-campeones-2" style={{width: '315px', marginLeft: '10px'}}/>
           </div>
         </div>
 

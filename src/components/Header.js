@@ -5,7 +5,7 @@ import logoTxC from "../img/logoTxC.png";
 export const Header = () => {
   return (
       <header>
-        <NavLink exact to="/"> <img className="logo-txc-menu" src={logoTxC} alt="Escudo Toma x Curioso" /> </NavLink>
+        <NavLink exact="true" to="/"> <img className="logo-txc-menu" src={logoTxC} alt="Escudo Toma x Curioso" /> </NavLink>
         <nav className="menu">
           <ul>
             <li> <NavLink to="/">Inicio</NavLink> </li>
