@@ -29,7 +29,7 @@ export const Torneos = () => {
           </nav>
         </div>
         <div className='contenido'>
-        <h2>Torneo la Redonda, Grün FC</h2>
+          <h2>Torneo la Redonda, Grün FC</h2>
           {fixture && <Fixture/>}
           {tabla && <Tabla/>}
           {estadisticas && <Estadisticas/>}

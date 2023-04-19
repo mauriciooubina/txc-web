@@ -60,4 +60,7 @@ tr.Toma.por.Curioso{
 }
 .contenido {
     margin-left: 120px;
-  }
+}
+.contenido h2{
+    margin-left: 300px;
+}
