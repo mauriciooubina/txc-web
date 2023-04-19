@@ -1,21 +1,14 @@
-
-.foto-equipo img {
-    width: 600px;
-}
-.foto-equipo {
-    justify-content: center;
-    text-align: center;
-}
-.contenedor h1{
+.contenedor h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     margin: 30px;
     color: #2C2C2C;
- }
+}
+
 .countdown {
-    padding:20px;
+    padding: 20px;
     background-color: #F3EFEF;
     border-radius: 5px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
@@ -26,4 +19,58 @@
     margin: 0 auto;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.foto-equipo {
+    justify-content: center;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.foto-equipo img {
+    width: 600px;
+}
+
+.convocados-container {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 30px;
+}
+
+.convocados {
+    flex-grow: 1;
+}
+
+.convocados-container ul {
+    list-style: decimal;
+    font-size: 32px;
+    margin-right: 50px;
+}
+
+.convocados-container p {
+    text-decoration: underline;
+}
+
+.convocados-container li {
+    font-size: 22px;
+    margin-left: 50px;
+}
+
+.lista-convocados li {
+    color: green;
+}
+
+.lista-bajas li {
+    color: red;
+}
+.lista-bajas p{
+    margin-left: 100px;
 }

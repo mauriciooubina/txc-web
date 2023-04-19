@@ -28,7 +28,7 @@ export const Torneos = () => {
             <button className='estadisticas' onClick={() => handleMenuClick('estadisticas')} >Estadisticas</button>
           </nav>
         </div>
-        <div className='contenido'>
+        <div className='contenido-torneos'>
           <h2>Torneo la Redonda, Grün FC</h2>
           {fixture && <Fixture/>}
           {tabla && <Tabla/>}
