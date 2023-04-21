@@ -6,11 +6,11 @@
         {"jugador": "L. Santillan"},
         {"jugador": "A. Fourcade"},
         {"jugador": "A. Ribles"},
-        {"jugador": "F. Perez"},
-        {"jugador": "A. Centofanti"}
+        {"jugador": "F. Perez"}
     ],
     "bajas": [
         {"jugador": "B. Ayala", "motivo": "Lesion"},
-        {"jugador": "D. San Martin", "motivo": "De joda"}
+        {"jugador": "D. San Martin", "motivo": "De joda"},
+        {"jugador": "A. Centofanti", "motivo": "Preso"}
     ]
 }
