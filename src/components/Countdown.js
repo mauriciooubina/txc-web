@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import fechas from "../data/fechas.json";
 
-var nroFecha = 4;
+var nroFecha = 5;
 
 export const Countdown = () => {
   const [dias, setDias] = useState(0);
@@ -17,7 +17,6 @@ export const Countdown = () => {
   setInterval(() => {
     const fechaHoy = new Date();
     const proxFecha = new Date(fechaActual.dia);
-    if (fechaHoy > proxFecha) nroFecha += 1;
     const falta = proxFecha - fechaHoy;
     const dias = Math.floor(falta / (1000 * 60 * 60 * 24));
     const horas = Math.floor(
