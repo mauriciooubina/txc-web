@@ -13,6 +13,7 @@ export const Countdown = () => {
   const proxDia = prox.getDate();
   const proxMes = prox.toLocaleString("es-ES", { month: "long" });
   const proxHora = prox.getHours() + ":" + prox.getMinutes();
+  if(fechaActual>prox) {nroFecha+=1;}
 
   setInterval(() => {
     const fechaHoy = new Date();

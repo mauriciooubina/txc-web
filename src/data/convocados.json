@@ -2,15 +2,15 @@
     "convocados":[
         {"jugador": "S. Fraga"},
         {"jugador": "M. Oubiña"},
-        {"jugador": "L. Gnoffo"},
         {"jugador": "L. Santillan"},
-        {"jugador": "A. Fourcade"},
         {"jugador": "A. Ribles"},
-        {"jugador": "F. Perez"}
+        {"jugador": "F. Perez"},
+        {"jugador": "A. Centofanti"}
     ],
     "bajas": [
+        {"jugador": "A. Fourcade", "motivo": "Pala"},
+        {"jugador": "L. Gnoffo", "motivo":"Lesion"},
         {"jugador": "B. Ayala", "motivo": "Lesion"},
-        {"jugador": "D. San Martin", "motivo": "De joda"},
-        {"jugador": "A. Centofanti", "motivo": "Preso"}
+        {"jugador": "D. San Martin", "motivo": "De joda"}
     ]
 }
