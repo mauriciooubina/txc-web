@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import fechas from "../data/fechas.json";
 
-var nroFecha = 5;
+var nroFecha = 6;
 
 export const Countdown = () => {
   const [dias, setDias] = useState(0);

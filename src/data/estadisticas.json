@@ -1,29 +1,29 @@
 [
     {
         "jugador": "Lucas Santillan",
-        "partidos": 4,
+        "partidos": 5,
         "goles": 5,
         "amarillas": 0,
         "rojas": 0
     },
     {
         "jugador": "Andre Ribles",
-        "partidos": 4,
-        "goles": 4,
+        "partidos": 5,
+        "goles": 5,
         "amarillas": 0,
         "rojas": 0
     },
     {
         "jugador": "Federico Perez",
-        "partidos": 4,
-        "goles": 3,
+        "partidos": 5,
+        "goles": 4,
         "amarillas": 0,
         "rojas": 0
     },
     {
         "jugador": "Mauricio Oubiña",
-        "partidos": 4,
-        "goles": 2,
+        "partidos": 5,
+        "goles": 3,
         "amarillas": 0,
         "rojas": 0
     },
@@ -50,21 +50,7 @@
     },
     {
         "jugador": "Sebastian Fraga",
-        "partidos": 4,
-        "goles": 0,
-        "amarillas": 0,
-        "rojas": 0
-    },
-    {
-        "jugador": "Dante San Martin",
-        "partidos": 0,
-        "goles": 0,
-        "amarillas": 0,
-        "rojas": 0
-    },
-    {
-        "jugador": "Bautista Ayala",
-        "partidos": 0,
+        "partidos": 5,
         "goles": 0,
         "amarillas": 0,
         "rojas": 0
