@@ -1,72 +1,72 @@
 [
     {
-        "equipo": "AS Roma",
-        "jugados": 4,
-        "ganados": 4,
-        "perdidos": 0,
-        "empatados": 0,
-        "puntos": 12,
-        "gf":39,
-        "gc":7
-    },
-    {
-        "equipo": "La Gran coco",
-        "jugados": 4,
-        "ganados": 4,
-        "perdidos": 0,
-        "empatados": 0,
-        "puntos": 12,
-        "gf":33,
-        "gc":15
-    },
-    {
-        "equipo": "Baiano Sports",
-        "jugados": 4,
-        "ganados": 3,
-        "perdidos": 1,
-        "empatados": 0,
-        "puntos": 9,
-        "gf":54,
-        "gc":22
-    },
-    {
         "equipo": "Toma por Curioso",
-        "jugados": 5,
-        "ganados": 2,
-        "perdidos": 3,
+        "jugados": 1,
+        "ganados": 1,
+        "perdidos": 0,
         "empatados": 0,
-        "puntos": 6,
-        "gf":28,
-        "gc":31
+        "puntos": 3,
+        "gf":9,
+        "gc":5
+    },
+    {
+        "equipo": "Son Bravos",
+        "jugados": 1,
+        "ganados": 1,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 3,
+        "gf":6,
+        "gc":2
+    },
+    {
+        "equipo": "Como Runga",
+        "jugados": 0,
+        "ganados": 0,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":0,
+        "gc":0
+    },
+    {
+        "equipo": "Mabxience",
+        "jugados": 0,
+        "ganados": 0,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":0,
+        "gc":0
+    },
+    {
+        "equipo": "Melmac",
+        "jugados": 0,
+        "ganados": 0,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":0,
+        "gc":0
     },
     {
         "equipo": "La Naranja de Juli",
-        "jugados": 4,
-        "ganados": 2,
-        "perdidos": 2,
-        "empatados": 0,
-        "puntos": 6,
-        "gf":21,
-        "gc":24
-    },
-    {
-        "equipo": "Pelusa FC",
-        "jugados": 4,
+        "jugados": 1,
         "ganados": 0,
-        "perdidos": 4,
+        "perdidos": 1,
         "empatados": 0,
         "puntos": 0,
         "gf":5,
-        "gc":34
+        "gc":9
     },
     {
-        "equipo": "Salmon FC",
-        "jugados": 5,
+        "equipo": "Leonidas",
+        "jugados": 1,
         "ganados": 0,
-        "perdidos": 5,
+        "perdidos": 1,
         "empatados": 0,
         "puntos": 0,
-        "gf":12,
-        "gc":59
+        "gf":2,
+        "gc":6
     }
 ]

@@ -1,49 +1,49 @@
 [
     {
         "fecha": 1,
-        "rival": "Pelusa FC",
-        "resultado": "5-0",
+        "rival": "La Naranja de Juli",
+        "resultado": "9-5",
+        "figura": "A. Fourcade",
+        "goleadores": "A. Fourcade"
+    },
+    {
+        "fecha": 2,
+        "rival": "Melmac",
+        "resultado": null,
         "figura": null,
         "goleadores": null
     },
     {
-        "fecha": 2,
-        "rival": "Salmon FC",
-        "resultado": "6-3",
-        "figura": "Santillan",
-        "goleadores": "Santillanx3, Ribles, Centofanti, Perez"
-    },
-    {
         "fecha": 3,
-        "rival": "Baiano Sports",
-        "resultado": "10-11",
+        "rival": "Mabxience",
+        "resultado": null,
         "figura": null,
-        "goleadores": "Perezx3,Oubiñax2,Riblesx2,Santillanx2,Gnoffo"
+        "goleadores": null
     },
     {
         "fecha": 4,
-        "rival": "La Gran Coco",
-        "resultado": "3-8",
+        "rival": "Fecha Libre",
+        "resultado": null,
         "figura": null,
-        "goleadores": "Fourcadex2,Gnoffo"
+        "goleadores": null
     },
     {
         "fecha": 5,
-        "rival": "AS Roma",
-        "resultado": "4-9",
+        "rival": "Leonidas",
+        "resultado": null,
         "figura": null,
-        "goleadores": "Ribles,Perez,Oubiña,De Carli"
+        "goleadores": null
     },
     {
         "fecha": 6,
-        "rival": "La Naranja de Juli",
+        "rival": "Son Bravos",
         "resultado": null,
         "figura": null,
         "goleadores": null
     },
     {
         "fecha": 7,
-        "rival": "Fecha Libre",
+        "rival": "Como Runga",
         "resultado": null,
         "figura": null,
         "goleadores": null

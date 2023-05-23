@@ -1,0 +1,72 @@
+[
+    {
+        "equipo": "AS Roma",
+        "jugados": 4,
+        "ganados": 4,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 12,
+        "gf":39,
+        "gc":7
+    },
+    {
+        "equipo": "La Gran coco",
+        "jugados": 4,
+        "ganados": 4,
+        "perdidos": 0,
+        "empatados": 0,
+        "puntos": 12,
+        "gf":33,
+        "gc":15
+    },
+    {
+        "equipo": "Baiano Sports",
+        "jugados": 4,
+        "ganados": 3,
+        "perdidos": 1,
+        "empatados": 0,
+        "puntos": 9,
+        "gf":54,
+        "gc":22
+    },
+    {
+        "equipo": "Toma por Curioso",
+        "jugados": 5,
+        "ganados": 2,
+        "perdidos": 3,
+        "empatados": 0,
+        "puntos": 6,
+        "gf":28,
+        "gc":31
+    },
+    {
+        "equipo": "La Naranja de Juli",
+        "jugados": 4,
+        "ganados": 2,
+        "perdidos": 2,
+        "empatados": 0,
+        "puntos": 6,
+        "gf":21,
+        "gc":24
+    },
+    {
+        "equipo": "Pelusa FC",
+        "jugados": 4,
+        "ganados": 0,
+        "perdidos": 4,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":5,
+        "gc":34
+    },
+    {
+        "equipo": "Salmon FC",
+        "jugados": 5,
+        "ganados": 0,
+        "perdidos": 5,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":12,
+        "gc":59
+    }
+]

@@ -4,12 +4,11 @@
         {"jugador": "M. Oubiña"},
         {"jugador": "L. Santillan"},
         {"jugador": "A. Ribles"},
-        {"jugador": "F. Perez"},
-        {"jugador": "A. Centofanti"},
-        {"jugador": "A. Fourcade"},
-        {"jugador": "L. Gnoffo"}
+        {"jugador": "F. Perez"}
     ],
     "bajas": [
+        {"jugador": "A. Fourcade", "motivo": "Pala"},
+        {"jugador": "L. Gnoffo", "motivo": "Lesion"},
         {"jugador": "B. Ayala", "motivo": "Lesion"},
         {"jugador": "D. San Martin", "motivo": "De joda"}
     ]

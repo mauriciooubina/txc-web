@@ -1,0 +1,51 @@
+[
+    {
+        "fecha": 1,
+        "rival": "Pelusa FC",
+        "resultado": "5-0",
+        "figura": null,
+        "goleadores": null
+    },
+    {
+        "fecha": 2,
+        "rival": "Salmon FC",
+        "resultado": "6-3",
+        "figura": "Santillan",
+        "goleadores": "Santillanx3, Ribles, Centofanti, Perez"
+    },
+    {
+        "fecha": 3,
+        "rival": "Baiano Sports",
+        "resultado": "10-11",
+        "figura": null,
+        "goleadores": "Perezx3,Oubiñax2,Riblesx2,Santillanx2,Gnoffo"
+    },
+    {
+        "fecha": 4,
+        "rival": "La Gran Coco",
+        "resultado": "3-8",
+        "figura": null,
+        "goleadores": "Fourcadex2,Gnoffo"
+    },
+    {
+        "fecha": 5,
+        "rival": "AS Roma",
+        "resultado": "4-9",
+        "figura": null,
+        "goleadores": "Ribles,Perez,Oubiña,De Carli"
+    },
+    {
+        "fecha": 6,
+        "rival": "La Naranja de Juli",
+        "resultado": null,
+        "figura": null,
+        "goleadores": null
+    },
+    {
+        "fecha": 7,
+        "rival": "Fecha Libre",
+        "resultado": null,
+        "figura": null,
+        "goleadores": null
+    }
+]
