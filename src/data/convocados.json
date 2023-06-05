@@ -7,9 +7,9 @@
         {"jugador": "F. Perez"}
     ],
     "bajas": [
-        {"jugador": "A. Fourcade", "motivo": "Pala"},
+        {"jugador": "A. Fourcade", "motivo": "Trabajo"},
         {"jugador": "L. Gnoffo", "motivo": "Lesion"},
-        {"jugador": "B. Ayala", "motivo": "Lesion"},
+        {"jugador": "B. Ayala", "motivo": "Venta al exterior"},
         {"jugador": "D. San Martin", "motivo": "De joda"}
     ]
 }
