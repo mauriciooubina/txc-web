@@ -7,10 +7,24 @@
         "rojas": 0
     },
     {
-        "jugador": "Lucas Santillan",
-        "partidos": 1,
+        "jugador": "Mauricio Oubiña",
+        "partidos": 2,
+        "goles": 5,
+        "amarillas": 0,
+        "rojas": 0
+    },
+    {
+        "jugador": "Andre Ribles",
+        "partidos": 2,
         "goles": 1,
         "amarillas": 0,
+        "rojas": 0
+    },
+    {
+        "jugador": "Lucas Santillan",
+        "partidos": 2,
+        "goles": 1,
+        "amarillas": 1,
         "rojas": 0
     },
     {
@@ -21,17 +35,10 @@
         "rojas": 0
     },
     {
-        "jugador": "Mauricio Oubiña",
+        "jugador": "Manuel Mamciz",
         "partidos": 1,
         "goles": 1,
-        "amarillas": 0,
-        "rojas": 0
-    },
-    {
-        "jugador": "Andre Ribles",
-        "partidos": 1,
-        "goles": 0,
-        "amarillas": 0,
+        "amarillas": 1,
         "rojas": 0
     },
     {

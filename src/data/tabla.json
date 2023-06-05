@@ -1,63 +1,63 @@
 [
     {
         "equipo": "Toma por Curioso",
-        "jugados": 1,
-        "ganados": 1,
+        "jugados": 2,
+        "ganados": 2,
         "perdidos": 0,
         "empatados": 0,
-        "puntos": 3,
-        "gf":9,
-        "gc":5
+        "puntos": 6,
+        "gf":15,
+        "gc":9
     },
     {
         "equipo": "Son Bravos",
-        "jugados": 1,
-        "ganados": 1,
+        "jugados": 2,
+        "ganados": 2,
         "perdidos": 0,
         "empatados": 0,
-        "puntos": 3,
-        "gf":6,
-        "gc":2
+        "puntos": 6,
+        "gf":8,
+        "gc":3
     },
     {
         "equipo": "Como Runga",
-        "jugados": 0,
-        "ganados": 0,
-        "perdidos": 0,
+        "jugados": 2,
+        "ganados": 1,
+        "perdidos": 1,
         "empatados": 0,
-        "puntos": 0,
-        "gf":0,
-        "gc":0
-    },
-    {
-        "equipo": "Mabxience",
-        "jugados": 0,
-        "ganados": 0,
-        "perdidos": 0,
-        "empatados": 0,
-        "puntos": 0,
-        "gf":0,
-        "gc":0
-    },
-    {
-        "equipo": "Melmac",
-        "jugados": 0,
-        "ganados": 0,
-        "perdidos": 0,
-        "empatados": 0,
-        "puntos": 0,
-        "gf":0,
-        "gc":0
+        "puntos": 3,
+        "gf":6,
+        "gc":6
     },
     {
         "equipo": "La Naranja de Juli",
+        "jugados": 2,
+        "ganados": 1,
+        "perdidos": 1,
+        "empatados": 0,
+        "puntos": 3,
+        "gf":8,
+        "gc":11
+    },
+    {
+        "equipo": "Mabxience",
+        "jugados": 2,
+        "ganados": 0,
+        "perdidos": 2,
+        "empatados": 0,
+        "puntos": 0,
+        "gf":4,
+        "gc":6
+    },
+    {
+        "equipo": "Melmac",
         "jugados": 1,
         "ganados": 0,
         "perdidos": 1,
         "empatados": 0,
         "puntos": 0,
-        "gf":5,
-        "gc":9
+        "gf":4,
+        "gc":6
     },
     {
         "equipo": "Leonidas",
