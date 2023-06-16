@@ -1,14 +1,12 @@
 import React, { useState } from "react";
 import fechas from "../data/fechas.json";
 
-var nroFecha = 3;
-
 export const Countdown = () => {
   const [dias, setDias] = useState(0);
   const [horas, setHoras] = useState(0);
   const [minutos, setMinutos] = useState(0);
   const [segundos, setSegundos] = useState(0);
-  const fechaActual = fechas.find((f) => f.fecha === nroFecha);
+  const fechaActual = fechas.find((f) => new Date(f.dia) > new Date());
   const prox = new Date(fechaActual.dia);
   const proxDia = prox.getDate();
   const proxMes = prox.toLocaleString("es-ES", { month: "long" });
@@ -19,9 +17,7 @@ export const Countdown = () => {
     const proxFecha = new Date(fechaActual.dia);
     const falta = proxFecha - fechaHoy;
     const dias = Math.floor(falta / (1000 * 60 * 60 * 24));
-    const horas = Math.floor(
-      (falta % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-    );
+    const horas = Math.floor((falta % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     const minutos = Math.floor((falta % (1000 * 60 * 60)) / (1000 * 60));
     const segundos = Math.floor((falta % (1000 * 60)) / 1000);
     setDias(dias);

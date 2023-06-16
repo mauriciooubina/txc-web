@@ -4,7 +4,8 @@
         {"jugador": "M. Oubiña"},
         {"jugador": "L. Santillan"},
         {"jugador": "A. Ribles"},
-        {"jugador": "F. Perez"}
+        {"jugador": "F. Perez"},
+        {"jugador": "M. Mamciz"}
     ],
     "bajas": [
         {"jugador": "A. Fourcade", "motivo": "Trabajo"},

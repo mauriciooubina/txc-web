@@ -23,7 +23,7 @@ export const Tabla = () => {
         {tabla.map(datos => (
             <tr key={datos.equipo} className={datos.equipo}>
               <td>{datos.equipo}</td>
-              <td>{datos.puntos}</td>
+              <td>{datos.ganados*3 + datos.empatados}</td>
               <td>{datos.jugados}</td>
               <td>{datos.ganados}</td>
               <td>{datos.empatados}</td>

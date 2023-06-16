@@ -4,7 +4,7 @@
         "rival": "La Naranja de Juli",
         "resultado": "9-5",
         "figura": "A. Fourcade",
-        "goleadores": "A. Fourcade"
+        "goleadores": "A. Fourcadex6, M. Oubiña, F. Perez, L. Santillan"
     },
     {
         "fecha": 2,
@@ -16,13 +16,13 @@
     {
         "fecha": 3,
         "rival": "Mabxience",
-        "resultado": null,
-        "figura": null,
-        "goleadores": null
+        "resultado": "8-2",
+        "figura": "L. Santillan",
+        "goleadores": "M. Oubiñax3, L. Santillanx2, A. Riblesx2, F. Perez"
     },
     {
         "fecha": 4,
-        "rival": "Fecha Libre",
+        "rival": "Son Bravos",
         "resultado": null,
         "figura": null,
         "goleadores": null
@@ -36,7 +36,7 @@
     },
     {
         "fecha": 6,
-        "rival": "Son Bravos",
+        "rival": "Fecha libre",
         "resultado": null,
         "figura": null,
         "goleadores": null
