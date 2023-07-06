@@ -1,35 +1,35 @@
 [
     {
         "jugador": "Mauricio Oubiña",
-        "partidos": 3,
+        "partidos": 5,
+        "goles": 10,
+        "amarillas": 1,
+        "rojas": 0
+    },
+    {
+        "jugador": "Alejandro Fourcade",
+        "partidos": 2,
         "goles": 8,
         "amarillas": 0,
         "rojas": 0
     },
     {
-        "jugador": "Alejandro Fourcade",
-        "partidos": 1,
+        "jugador": "Lucas Santillan",
+        "partidos": 5,
         "goles": 6,
-        "amarillas": 0,
+        "amarillas": 2,
         "rojas": 0
     },
     {
         "jugador": "Andre Ribles",
-        "partidos": 3,
-        "goles": 3,
+        "partidos": 5,
+        "goles": 4,
         "amarillas": 0,
         "rojas": 0
     },
     {
-        "jugador": "Lucas Santillan",
-        "partidos": 3,
-        "goles": 3,
-        "amarillas": 1,
-        "rojas": 0
-    },
-    {
         "jugador": "Federico Perez",
-        "partidos": 2,
+        "partidos": 5,
         "goles": 2,
         "amarillas": 0,
         "rojas": 0
@@ -43,9 +43,16 @@
     },
     {
         "jugador": "Sebastian Fraga",
-        "partidos": 3,
+        "partidos": 5,
         "goles": 0,
         "amarillas": 0,
+        "rojas": 0
+    },
+    {
+        "jugador": "Joaquin Quiros",
+        "partidos": 1,
+        "goles": 2,
+        "amarillas": 1,
         "rojas": 0
     },
     {

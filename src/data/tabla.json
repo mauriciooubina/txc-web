@@ -1,65 +1,65 @@
 [
     {
         "equipo": "Toma por Curioso",
-        "jugados": 3,
-        "ganados": 3,
-        "perdidos": 0,
-        "empatados": 0,
-        "gf":23,
-        "gc":11
-    },
-    {
-        "equipo": "Son Bravos",
-        "jugados": 3,
-        "ganados": 2,
+        "jugados": 5,
+        "ganados": 4,
         "perdidos": 1,
         "empatados": 0,
-        "gf":9,
-        "gc":6
-    },
-    {
-        "equipo": "Como Runga",
-        "jugados": 3,
-        "ganados": 2,
-        "perdidos": 1,
-        "empatados": 0,
-        "gf":9,
-        "gc":7
+        "gf":34,
+        "gc":21
     },
     {
         "equipo": "La Naranja de Juli",
-        "jugados": 2,
-        "ganados": 1,
+        "jugados": 5,
+        "ganados": 4,
         "perdidos": 1,
         "empatados": 0,
-        "gf":8,
-        "gc":11
+        "gf":22,
+        "gc":14
+    },
+    {
+        "equipo": "Como Runga",
+        "jugados": 5,
+        "ganados": 4,
+        "perdidos": 1,
+        "empatados": 0,
+        "gf":20,
+        "gc":13
+    },
+    {
+        "equipo": "Son Bravos",
+        "jugados": 5,
+        "ganados": 2,
+        "perdidos": 2,
+        "empatados": 0,
+        "gf":16,
+        "gc":15
     },
     {
         "equipo": "Melmac",
-        "jugados": 2,
-        "ganados": 0,
+        "jugados": 5,
+        "ganados": 1,
         "perdidos": 1,
         "empatados": 1,
-        "gf":7,
-        "gc":9
+        "gf":19,
+        "gc":24
     },
     {
         "equipo": "Leonidas",
-        "jugados": 1,
-        "ganados": 0,
+        "jugados": 5,
+        "ganados": 1,
         "perdidos": 1,
-        "empatados": 1,
-        "gf":5,
-        "gc":9
+        "empatados": 3,
+        "gf":15,
+        "gc":21
     },
     {
         "equipo": "Mabxience",
-        "jugados": 3,
+        "jugados": 6,
         "ganados": 0,
-        "perdidos": 3,
-        "empatados": 0,
-        "gf":6,
-        "gc":14
+        "perdidos": 0,
+        "empatados": 6,
+        "gf":11,
+        "gc":30
     }
 ]

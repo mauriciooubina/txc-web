@@ -5,11 +5,10 @@
         {"jugador": "L. Santillan"},
         {"jugador": "A. Ribles"},
         {"jugador": "F. Perez"},
-        {"jugador": "M. Mamciz"}
+        {"jugador": "A. Fourcade"},
+        {"jugador": "L. Gnoffo"}
     ],
     "bajas": [
-        {"jugador": "A. Fourcade", "motivo": "Trabajo"},
-        {"jugador": "L. Gnoffo", "motivo": "Lesion"},
         {"jugador": "B. Ayala", "motivo": "Venta al exterior"},
         {"jugador": "D. San Martin", "motivo": "De joda"}
     ]
